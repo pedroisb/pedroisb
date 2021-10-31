@@ -1,4 +1,4 @@
-## Olá! Meu nome é Pedro Brito 👋
+## Olá! Meu nome é Pedro Brito 🖖🏻
 
 Full-Stack | Front-end | Back-end 
 
