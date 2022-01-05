@@ -1,9 +1,9 @@
 ## Olá! Meu nome é Pedro Brito 🖖🏻
 
-Full-Stack | Front-end | Back-end 
+Web Developer
 
-- 🐱‍🏍 Eu estudo programação desde maio de 2021, quando iniciei o curso Certified Tech Developer, da Digital House Brasil
-- 🐱‍💻 Atualmente, estou aprendendo JavaScript e Java 
+- 🐱‍🏍 Estudo programação desde maio de 2021, quando iniciei o curso Certified Tech Developer, da Digital House Brasil
+- 🐱‍💻 Atualmente, estou estudando as linguagens JavaScript e Java, os frameworks React.js e Spring Boot, assim como AWS e Docker.
 - 👀 Para conhecer mais do meu trabalho como desenvolvedor, visite o meu portfólio: https://github.com/pedroisb
 
 ##
@@ -21,6 +21,10 @@ Full-Stack | Front-end | Back-end
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Pedro-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
 ##
