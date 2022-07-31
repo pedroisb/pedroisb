@@ -3,7 +3,7 @@
 Web Developer
 
 - 🐱‍🏍 Estudo programação desde maio de 2021, quando iniciei o curso Certified Tech Developer, da Digital House Brasil
-- 🐱‍💻 Atualmente, estou estudando as linguagens JavaScript e Java, os frameworks React.js e Spring Boot, assim como AWS e Docker.
+- 🐱‍💻 Atualmente, estou dedicando os meus estudos a tecnologias relacionadas ao desenvolvimento web front-end, como JS/TS, React, Next, Jest e React Testing Library
 - 👀 Para conhecer mais do meu trabalho como desenvolvedor, visite o meu portfólio: https://github.com/pedroisb
 
 ##
